@@ -2,11 +2,11 @@
 	"title": "ClinX02 PineTime Firmware Releases",
 	"description": "Seizure detection firmware for the PineTime watch",
 	"recommendedFw": 0,
-	"releases": [ 0,
+	"releases": [
 		{
-			"version": "0.1",
-			"description": "ClinX02 Seizure Detector Firmware",
-			"fname": "pinetime-mcuboot-app-dfu-clinx02-0.1.zip"
+			"version": "0.1-clinx02",
+			"description": "ClinX02 Custom Build - CLINX02 watch face",
+			"fname": "pinetime-mcuboot-app-dfu-230.0.6.zip"
 		}
 	]
 }
